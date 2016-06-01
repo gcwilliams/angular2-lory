@@ -1,0 +1,18 @@
+{
+  "name": "angular2-wallop",
+  "authors": [
+    "Gareth Williams <gaz_williams@hotmail.com>"
+  ],
+  "description": "An example of Angular2 using the external carousel library Wallop",
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "lory": "^2.1.0"
+  }
+}
